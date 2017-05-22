@@ -11,7 +11,7 @@ Required rank: none
 `!getMember <@Member> [--verbose|-v]`
 
 * @Member: A mention of a member on the server. Command will fail if member is not in the database.
-* verbose: No value. The presence of this argument will produce additional information, such as the aliases of a member.
+* verbose (optional): No value. The presence of this argument will produce additional information, such as the aliases of a member.
 
 **Examples:**
 
