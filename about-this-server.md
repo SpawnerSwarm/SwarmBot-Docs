@@ -19,7 +19,7 @@ Like any good clan, there are structures and rules in place to ward against chao
 **7)**  During our clan cleaning (of inactive members not on leave), we will give everyone a 1-week notice to come back to Discord or log in to the game and mention they are still active. We will determine inactivity based on your last messages in Discord or presence in-game.
 **8)**  Please respect our organization on Discord, we have specific channels for a reason. *(Don’t post meme dumps on #general, and don’t have discussions in #swarmbotpatchnotes)*
 **9)**  **Do not under any circumstances post illegal or malicious content on any platform or distribute it unsolicited to our members. This will result in an immediate ban and adequate legal measures will be taken.**
-**10)** Do not under any circumstances post illegal or malicious content on any platform or distribute it unsolicited to our members. This will result in an immediate ban and adequate legal measures will be taken.
+**10)** If you are asked by another member to refrain from using explicit language, please do so. This is, by no means, a ban on explicit language; if your group is cool with it, by all means have fun.
 **11)** Please donate resources within your means to guild projects. We work together, and that includes donating to projects.
 **12)** Don’t post affiliate links, referral links/codes, or advertisements for other communities without the GMs’ permission!
 \split\roles.png
