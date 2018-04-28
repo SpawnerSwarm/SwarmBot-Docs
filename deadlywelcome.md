@@ -9,6 +9,6 @@ follows; build name, weapon/warframe name, master holder.
 --Submission Proccess--
 The specifics on what is allowed for builds is detailed in the deadly runners information,
 please do ``!help deadlyrunners`` to recieve a pm detailing the information.  Submissions
-are to go to @Zealous Vindictor#3277 , who will determine if the submitted build is
-objectively better than the previous build.  If so, your build will be posted, and you will
-be awarded the mastery title for the build, and the previous build will be archived.
+are to be private messaged to @Zealous Vindictor#3277 , who will determine if the submitted
+build is objectively better than the previous build.  If so, your build will be posted, and 
+you will be awarded the mastery title for the build, and the previous build will be archived.
